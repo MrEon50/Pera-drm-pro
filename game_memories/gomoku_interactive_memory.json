@@ -1,0 +1,102 @@
+{
+  "version": "PERA-DRM-PRO-1.0",
+  "timestamp": 1786725770.1352918,
+  "date_string": "2026-08-14 18:42:50",
+  "game_name": "gomoku_interactive",
+  "system_state": {
+    "cycle": 31,
+    "harmony_phi": 0.1931506849050479,
+    "activity_history": [
+      7.677762422252932
+    ],
+    "total_rules": 3,
+    "active_rules_count": 3,
+    "quarantined_rules_count": 0
+  },
+  "game_stats": {
+    "games_played": 31,
+    "human_wins": 0,
+    "bot_wins": 1
+  },
+  "rules": [
+    {
+      "id": "rule_0_0_754",
+      "name": "Podwójna Trójka (Atak)",
+      "polarity": 0.9,
+      "magnitude": 1.0,
+      "weight": 2.5,
+      "strength": 7.833317666697998,
+      "priority": 1,
+      "features": [
+        0.9,
+        0.3,
+        0.8
+      ],
+      "tags": [
+        "atak"
+      ],
+      "usage_count": 31,
+      "success_count": 21,
+      "failure_count": 10,
+      "post_mean": 0.6666666666666666,
+      "post_var": 0.006535947712418301,
+      "quarantined": false,
+      "quarantine_reason": null,
+      "created_cycle": 0,
+      "last_used_cycle": 0
+    },
+    {
+      "id": "rule_0_1_214",
+      "name": "Blok Otwartym Czwórkom",
+      "polarity": -0.8,
+      "magnitude": 1.0,
+      "weight": 2.8,
+      "strength": 8.533316266700798,
+      "priority": 1,
+      "features": [
+        0.3,
+        0.9,
+        0.8
+      ],
+      "tags": [
+        "obrona"
+      ],
+      "usage_count": 31,
+      "success_count": 21,
+      "failure_count": 10,
+      "post_mean": 0.6666666666666666,
+      "post_var": 0.006535947712418301,
+      "quarantined": false,
+      "quarantine_reason": null,
+      "created_cycle": 0,
+      "last_used_cycle": 0
+    },
+    {
+      "id": "rule_0_2_125",
+      "name": "Przekątny Ciąg 4",
+      "polarity": 0.7,
+      "magnitude": 1.0,
+      "weight": 2.0,
+      "strength": 6.666653333359999,
+      "priority": 1,
+      "features": [
+        0.8,
+        0.8,
+        0.7
+      ],
+      "tags": [
+        "atak"
+      ],
+      "usage_count": 31,
+      "success_count": 21,
+      "failure_count": 10,
+      "post_mean": 0.6666666666666666,
+      "post_var": 0.006535947712418301,
+      "quarantined": false,
+      "quarantine_reason": null,
+      "created_cycle": 0,
+      "last_used_cycle": 0
+    }
+  ],
+  "quarantine_archive": []
+}

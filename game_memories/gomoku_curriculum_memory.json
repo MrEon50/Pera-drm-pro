@@ -1,0 +1,180 @@
+{
+  "version": "PERA-DRM-PRO-1.0",
+  "timestamp": 1786723399.3464499,
+  "date_string": "2026-08-14 18:03:19",
+  "game_name": "gomoku_curriculum",
+  "system_state": {
+    "cycle": 20,
+    "harmony_phi": 0.19382628126682291,
+    "activity_history": [
+      8.979144218806118,
+      6.12498468753828,
+      8.53747865630336,
+      8.979144218806118,
+      9.294619620593807,
+      6.953107617230957,
+      8.979144218806118,
+      9.1999770000575,
+      9.3806583665359,
+      9.53122617193457,
+      8.781228046929883,
+      11.21524973965343,
+      7.9652578646331165,
+      7.9652578646331165,
+      10.807264648505047,
+      8.19940826485115,
+      8.19940826485115,
+      11.076181986909152,
+      8.477976389333053,
+      8.477976389333053
+    ],
+    "total_rules": 5,
+    "active_rules_count": 5,
+    "quarantined_rules_count": 0
+  },
+  "game_stats": {
+    "curriculum_stage": "Etap 2 - Self-Play & Novelty",
+    "total_rules_discovered": 5,
+    "active_rules_count": 5,
+    "creative_patterns_rewarded": 4,
+    "final_phi": 0.19382628126682291
+  },
+  "rules": [
+    {
+      "id": "rule_0_0_754",
+      "name": "Podwójna Trójka (Atak)",
+      "polarity": 0.9,
+      "magnitude": 1.0,
+      "weight": 2.5,
+      "strength": 8.312479218801954,
+      "priority": 1,
+      "features": [
+        0.95,
+        0.3,
+        0.85
+      ],
+      "tags": [
+        "atak",
+        "kreatywnosc"
+      ],
+      "usage_count": 10,
+      "success_count": 8,
+      "failure_count": 2,
+      "post_mean": 0.75,
+      "post_var": 0.014423076923076924,
+      "quarantined": false,
+      "quarantine_reason": null,
+      "created_cycle": 0,
+      "last_used_cycle": 0
+    },
+    {
+      "id": "rule_0_1_214",
+      "name": "Blokowanie Czwórek (Defensywa)",
+      "polarity": -0.9,
+      "magnitude": 1.0,
+      "weight": 4.664796134838439,
+      "strength": 15.077450227744555,
+      "priority": 1,
+      "features": [
+        0.3,
+        0.95,
+        0.8
+      ],
+      "tags": [
+        "obrona",
+        "bezpieczenstwo"
+      ],
+      "usage_count": 10,
+      "success_count": 8,
+      "failure_count": 2,
+      "post_mean": 0.75,
+      "post_var": 0.014423076923076924,
+      "quarantined": false,
+      "quarantine_reason": null,
+      "created_cycle": 0,
+      "last_used_cycle": 0
+    },
+    {
+      "id": "rule_11_2_323",
+      "name": "Odkryty Schemat Y_12",
+      "polarity": 0.75,
+      "magnitude": 1.0,
+      "weight": 2.0,
+      "strength": 6.333317500039583,
+      "priority": 1,
+      "features": [
+        0.7260816497888248,
+        0.7265765459055811,
+        0.8059594438876141
+      ],
+      "tags": [
+        "nowosc",
+        "kreatywnosc"
+      ],
+      "usage_count": 1,
+      "success_count": 1,
+      "failure_count": 0,
+      "post_mean": 0.6666666666666666,
+      "post_var": 0.05555555555555555,
+      "quarantined": false,
+      "quarantine_reason": null,
+      "created_cycle": 11,
+      "last_used_cycle": 0
+    },
+    {
+      "id": "rule_14_3_833",
+      "name": "Odkryty Schemat Y_15",
+      "polarity": 0.75,
+      "magnitude": 1.0,
+      "weight": 2.0,
+      "strength": 6.333317500039583,
+      "priority": 1,
+      "features": [
+        0.7697982680172218,
+        0.7806056187149941,
+        0.9122490125877226
+      ],
+      "tags": [
+        "nowosc",
+        "kreatywnosc"
+      ],
+      "usage_count": 1,
+      "success_count": 1,
+      "failure_count": 0,
+      "post_mean": 0.6666666666666666,
+      "post_var": 0.05555555555555555,
+      "quarantined": false,
+      "quarantine_reason": null,
+      "created_cycle": 14,
+      "last_used_cycle": 0
+    },
+    {
+      "id": "rule_17_4_703",
+      "name": "Odkryty Schemat Y_18",
+      "polarity": 0.75,
+      "magnitude": 1.0,
+      "weight": 2.0,
+      "strength": 6.333317500039583,
+      "priority": 1,
+      "features": [
+        0.8949653313338569,
+        0.763482444180965,
+        0.8440881244081394
+      ],
+      "tags": [
+        "nowosc",
+        "kreatywnosc"
+      ],
+      "usage_count": 1,
+      "success_count": 1,
+      "failure_count": 0,
+      "post_mean": 0.6666666666666666,
+      "post_var": 0.05555555555555555,
+      "quarantined": false,
+      "quarantine_reason": null,
+      "created_cycle": 17,
+      "last_used_cycle": 0
+    }
+  ],
+  "quarantine_archive": []
+}

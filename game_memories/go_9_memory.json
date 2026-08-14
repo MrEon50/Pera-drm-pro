@@ -1,0 +1,104 @@
+{
+  "version": "PERA-DRM-PRO-1.0",
+  "timestamp": 1786722929.2955894,
+  "date_string": "2026-08-14 17:55:29",
+  "game_name": "go_9",
+  "system_state": {
+    "cycle": 1,
+    "harmony_phi": 0.06666666664957265,
+    "activity_history": [
+      5.249986875032812
+    ],
+    "total_rules": 3,
+    "active_rules_count": 2,
+    "quarantined_rules_count": 1
+  },
+  "game_stats": {
+    "games_played": 150,
+    "win_rate": 0.68,
+    "avg_mcts_depth": 12.4,
+    "best_opening": "Standard Center Expansion"
+  },
+  "rules": [
+    {
+      "id": "rule_0_0_754",
+      "name": "Rozszerzenie Terytorium",
+      "polarity": 0.7,
+      "magnitude": 1.0,
+      "weight": 2.0,
+      "strength": 5.374986562533594,
+      "priority": 4,
+      "features": [
+        0.8,
+        0.7,
+        0.9
+      ],
+      "tags": [
+        "ekspansja"
+      ],
+      "usage_count": 0,
+      "success_count": 0,
+      "failure_count": 0,
+      "post_mean": 0.5,
+      "post_var": 0.0833,
+      "quarantined": false,
+      "quarantine_reason": null,
+      "created_cycle": 0,
+      "last_used_cycle": 0
+    },
+    {
+      "id": "rule_0_1_214",
+      "name": "Łączenie Żywych Grup",
+      "polarity": -0.6,
+      "magnitude": 1.0,
+      "weight": 1.9,
+      "strength": 5.124987187532031,
+      "priority": 4,
+      "features": [
+        0.9,
+        0.8,
+        0.9
+      ],
+      "tags": [
+        "obrona"
+      ],
+      "usage_count": 0,
+      "success_count": 0,
+      "failure_count": 0,
+      "post_mean": 0.5,
+      "post_var": 0.0833,
+      "quarantined": false,
+      "quarantine_reason": null,
+      "created_cycle": 0,
+      "last_used_cycle": 0
+    }
+  ],
+  "quarantine_archive": [
+    {
+      "id": "rule_0_2_125",
+      "name": "Losowa Inwazja Narożnika",
+      "polarity": 0.8,
+      "magnitude": 1.0,
+      "weight": 1.0,
+      "strength": 0.0,
+      "priority": 1,
+      "features": [
+        0.2,
+        0.2,
+        0.1
+      ],
+      "tags": [
+        "eksperyment"
+      ],
+      "usage_count": 6,
+      "success_count": 0,
+      "failure_count": 6,
+      "post_mean": 0.125,
+      "post_var": 0.012152777777777778,
+      "quarantined": true,
+      "quarantine_reason": "Skuteczność spadła poniżej progu (12.5%)",
+      "created_cycle": 0,
+      "last_used_cycle": 0
+    }
+  ]
+}

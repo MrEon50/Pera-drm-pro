@@ -1,0 +1,36 @@
+[18:39:58] Ruch #01 | Człowiek [X]  -> Pole ( 5,  5) | Typ: Ruch Gracza            | Wzorce: [Zwykłe pozycjonowanie]
+[18:39:58] Ruch #02 | AI Bot [O]    -> Pole ( 0,  3) | Typ: 🧠 STRATEGICZNY (MCTS+DRM) | Wzorce: [Zwykłe pozycjonowanie] | V: +1.00 | Phi: +0.193
+[18:40:05] Ruch #03 | Człowiek [X]  -> Pole ( 5,  6) | Typ: Ruch Gracza            | Wzorce: [extension_2]
+[18:40:05] Ruch #04 | AI Bot [O]    -> Pole ( 5,  4) | Typ: 🛡️ TAKTYCZNY (🛡️ Blokada Otwartej Trójki Przeciwnika) | Wzorce: [Zwykłe pozycjonowanie] | V: +0.99 | Phi: +0.193
+[18:40:28] Ruch #05 | Człowiek [X]  -> Pole ( 4,  6) | Typ: Ruch Gracza            | Wzorce: [extension_2]
+[18:40:28] Ruch #06 | AI Bot [O]    -> Pole ( 3,  6) | Typ: 🛡️ TAKTYCZNY (🛡️ Blokada Otwartej Trójki Przeciwnika) | Wzorce: [Zwykłe pozycjonowanie] | V: +0.99 | Phi: +0.193
+[18:40:33] Ruch #07 | Człowiek [X]  -> Pole ( 4,  5) | Typ: Ruch Gracza            | Wzorce: [extension_2]
+[18:40:33] Ruch #08 | AI Bot [O]    -> Pole ( 3,  4) | Typ: 🛡️ TAKTYCZNY (🛡️ Blokada Otwartej Trójki Przeciwnika) | Wzorce: [Zwykłe pozycjonowanie] | V: +0.99 | Phi: +0.193
+[18:40:38] Ruch #09 | Człowiek [X]  -> Pole ( 4,  7) | Typ: Ruch Gracza            | Wzorce: [threat_3_open, extension_2]
+[18:40:38] Ruch #10 | AI Bot [O]    -> Pole ( 4,  4) | Typ: 🛡️ TAKTYCZNY (🛡️ Blokada Otwartej Czwórki / Widelca Przeciwnika) | Wzorce: [threat_3_open] | V: +0.99 | Phi: +0.193
+[18:40:42] Ruch #11 | Człowiek [X]  -> Pole ( 2,  4) | Typ: Ruch Gracza            | Wzorce: [Zwykłe pozycjonowanie]
+[18:40:42] Ruch #12 | AI Bot [O]    -> Pole ( 3,  5) | Typ: 🛡️ TAKTYCZNY (🛡️ Blokada Otwartej Trójki Przeciwnika) | Wzorce: [threat_3_open, extension_2] | V: +0.99 | Phi: +0.193
+[18:40:46] Ruch #13 | Człowiek [X]  -> Pole ( 3,  3) | Typ: Ruch Gracza            | Wzorce: [extension_2]
+[18:40:46] Ruch #14 | AI Bot [O]    -> Pole ( 1,  5) | Typ: 🛡️ TAKTYCZNY (🛡️ Blokada Otwartej Trójki Przeciwnika) | Wzorce: [Zwykłe pozycjonowanie] | V: +0.99 | Phi: +0.193
+[18:40:52] Ruch #15 | Człowiek [X]  -> Pole ( 4,  8) | Typ: Ruch Gracza            | Wzorce: [threat_4_half]
+[18:40:52] Ruch #16 | AI Bot [O]    -> Pole ( 4,  9) | Typ: 🛡️ TAKTYCZNY (🚨 BEZWZGLĘDNA BLOKADA Wygranej Przeciwnika (Blokada 5)) | Wzorce: [Zwykłe pozycjonowanie] | V: +0.99 | Phi: +0.193
+[18:41:04] Ruch #17 | Człowiek [X]  -> Pole ( 3,  8) | Typ: Ruch Gracza            | Wzorce: [threat_3_open, extension_2]
+[18:41:04] Ruch #18 | AI Bot [O]    -> Pole ( 2,  9) | Typ: 🛡️ TAKTYCZNY (🛡️ Blokada Otwartej Czwórki / Widelca Przeciwnika) | Wzorce: [Zwykłe pozycjonowanie] | V: +0.99 | Phi: +0.193
+[18:41:10] Ruch #19 | Człowiek [X]  -> Pole ( 5,  8) | Typ: Ruch Gracza            | Wzorce: [threat_3_open, extension_2]
+[18:41:10] Ruch #20 | AI Bot [O]    -> Pole ( 2,  8) | Typ: 🛡️ TAKTYCZNY (🛡️ Blokada Otwartej Czwórki / Widelca Przeciwnika) | Wzorce: [extension_2] | V: +0.99 | Phi: +0.193
+[18:41:18] Ruch #21 | Człowiek [X]  -> Pole ( 5,  7) | Typ: Ruch Gracza            | Wzorce: [threat_4_half, extension_2]
+[18:41:18] Ruch #22 | AI Bot [O]    -> Pole ( 5,  9) | Typ: 🛡️ TAKTYCZNY (🚨 BEZWZGLĘDNA BLOKADA Wygranej Przeciwnika (Blokada 5)) | Wzorce: [extension_2] | V: +0.99 | Phi: +0.193
+[18:41:25] Ruch #23 | Człowiek [X]  -> Pole ( 3,  9) | Typ: Ruch Gracza            | Wzorce: [threat_3_open, extension_2]
+[18:41:25] Ruch #24 | AI Bot [O]    -> Pole ( 2, 10) | Typ: 🛡️ TAKTYCZNY (🛡️ Blokada Otwartej Czwórki / Widelca Przeciwnika) | Wzorce: [threat_3_open] | V: +0.99 | Phi: +0.193
+[18:41:30] Ruch #25 | Człowiek [X]  -> Pole ( 2,  7) | Typ: Ruch Gracza            | Wzorce: [extension_2]
+[18:41:30] Ruch #26 | AI Bot [O]    -> Pole ( 3,  7) | Typ: 🛡️ TAKTYCZNY (🛡️ Blokada Otwartej Czwórki / Widelca Przeciwnika) | Wzorce: [extension_2] | V: +0.99 | Phi: +0.193
+[18:41:49] Ruch #27 | Człowiek [X]  -> Pole ( 6,  8) | Typ: Ruch Gracza            | Wzorce: [threat_4_half]
+[18:41:49] Ruch #28 | AI Bot [O]    -> Pole ( 7,  8) | Typ: 🛡️ TAKTYCZNY (🚨 BEZWZGLĘDNA BLOKADA Wygranej Przeciwnika (Blokada 5)) | Wzorce: [Zwykłe pozycjonowanie] | V: +0.99 | Phi: +0.193
+[18:41:57] Ruch #29 | Człowiek [X]  -> Pole ( 6,  6) | Typ: Ruch Gracza            | Wzorce: [threat_4_half, extension_2]
+[18:41:57] Ruch #30 | AI Bot [O]    -> Pole ( 7,  5) | Typ: 🛡️ TAKTYCZNY (🚨 BEZWZGLĘDNA BLOKADA Wygranej Przeciwnika (Blokada 5)) | Wzorce: [Zwykłe pozycjonowanie] | V: +0.99 | Phi: +0.193
+[18:42:25] Ruch #31 | Człowiek [X]  -> Pole ( 8,  6) | Typ: Ruch Gracza            | Wzorce: [Zwykłe pozycjonowanie]
+[18:42:25] Ruch #32 | AI Bot [O]    -> Pole ( 7,  6) | Typ: 🛡️ TAKTYCZNY (🚨 BEZWZGLĘDNA BLOKADA Wygranej Przeciwnika (Blokada 5)) | Wzorce: [extension_2] | V: +0.99 | Phi: +0.193
+[18:42:38] Ruch #33 | Człowiek [X]  -> Pole ( 6,  7) | Typ: Ruch Gracza            | Wzorce: [threat_3_open]
+[18:42:38] Ruch #34 | AI Bot [O]    -> Pole ( 7,  7) | Typ: 🛡️ TAKTYCZNY (⚡ Atak Groźbą Czwórki / Widelcem 4+3) | Wzorce: [threat_4_open] | V: +0.99 | Phi: +0.193
+[18:42:50] Ruch #35 | Człowiek [X]  -> Pole ( 7,  4) | Typ: Ruch Gracza            | Wzorce: [Zwykłe pozycjonowanie]
+[18:42:50] Ruch #36 | AI Bot [O]    -> Pole ( 7,  9) | Typ: 🛡️ TAKTYCZNY (🏆 Natychmiastowa Wygrana (5-w-rzędzie)) | Wzorce: [win_5] | V: +0.99 | Phi: +0.193
